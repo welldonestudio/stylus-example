@@ -1,0 +1,8 @@
+[package]
+name = "stylus-example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+stylus-sdk = "0.6.0"  # Stylus SDK 버전 설정
+alloy-primitives = "0.7.6"  # Alloy Primitives 라이브러리 추가
